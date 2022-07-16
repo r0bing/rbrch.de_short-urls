@@ -3,7 +3,7 @@
   "redirects": [
 
     { "source": "/", "destination": "https://robinbruch.de"},
-    { "source": "/singularitaet", "destination": "https://robinbruch.de/2022/07/10/ein_lo-fi-girl_und_die_singularitaet/"},
+    { "source": "/singularität", "destination": "https://robinbruch.de/2022/07/11/ein_lo-fi-girl_und_die_singularitaet/"},
     { "source": "/dummheit", "destination": "https://robinbruch.de/2022/04/22/das_gute_das_boese_und_die_dummheit"},
     { "source": "/neues-internet", "destination": "https://robinbruch.de/2022/03/31/was_nun_internet/"},
     { "source": "/nostalgie", "destination": "https://robinbruch.de/2022/03/06/das_letzte_gute_jahr/"},
