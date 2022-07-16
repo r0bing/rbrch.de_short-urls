@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "redirects": [
+
+    { "source": "/", "destination": "https://robinbruch.de"},
+    { "source": "/singularitaet", "destination": "https://robinbruch.de/2022/07/10/ein_lo-fi-girl_und_die_singularitaet/"},
+    { "source": "/dummheit", "destination": "https://robinbruch.de/2022/04/22/das_gute_das_boese_und_die_dummheit"},
+    { "source": "/neues-internet", "destination": "https://robinbruch.de/2022/03/31/was_nun_internet/"},
+    { "source": "/nostalgie", "destination": "https://robinbruch.de/2022/03/06/das_letzte_gute_jahr/"},
+    { "source": "/blockchain", "destination": "https://robinbruch.de/2022/02/04/blockchain_bla_bla/"},
+    { "source": "/videospielrhetorik", "destination": "https://robinbruch.de/2021/03/15/prozedurale_rhetorik_in_videospielen/"},
+    { "source": "/spiegel-bento", "destination": "https://robinbruch.de/2018/07/17/spiegel_online_vs_bento/"},
+    { "source": "/videospieltod", "destination": "https://robinbruch.de/2016/06/01/ludologie_gegen_narratologie/"},
+    { "source": "/kulturcrash", "destination": "https://robinbruch.de/2014/12/13/ich_bin_eben_ein_kultur-crash/"}
+  ]
+}
