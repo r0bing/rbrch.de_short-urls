@@ -5,6 +5,7 @@
     { "source": "/", "destination": "https://robinbruch.de"},
     { "source": "/essays", "destination": "https://robinbruch.de/essays/"},
 
+    { "source": "/berlin", "destination": "https://robinbruch.de/2022/09/06/berlin/"},
     { "source": "/fredericks", "destination": "https://robinbruch.de/2022/09/02/fredericks/"},
     { "source": "/helgoland", "destination": "http://robinbruch.de/2022/08/11/helgoland/"},
     
