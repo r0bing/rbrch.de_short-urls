@@ -5,6 +5,7 @@
     { "source": "/", "destination": "https://robinbruch.de"},
     { "source": "/essays", "destination": "https://robinbruch.de/essays/"},
 
+    { "source": "/hdk", "destination": "https://robinbruch.de/2022/11/07/sexwith/"},
     { "source": "/dalle2", "destination": "https://robinbruch.de/2022/10/20/harmoniemaschin/"},
     { "source": "/berlin", "destination": "https://robinbruch.de/2022/09/06/berlin/"},
     { "source": "/fredericks", "destination": "https://robinbruch.de/2022/09/02/fredericks/"},
