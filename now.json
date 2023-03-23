@@ -5,12 +5,15 @@
     { "source": "/", "destination": "https://robinbruch.de"},
     { "source": "/essays", "destination": "https://robinbruch.de/essays/"},
 
+    { "source": "/trottel", "destination": "https://robinbruch.de/2023/03/23/reich_werden/"},
+    { "source": "/sizz", "destination": "https://robinbruch.de/2023/02/23/sizz/"},
     { "source": "/hdk", "destination": "https://robinbruch.de/2022/11/07/sexwith/"},
     { "source": "/dalle2", "destination": "https://robinbruch.de/2022/10/20/harmoniemaschin/"},
     { "source": "/berlin", "destination": "https://robinbruch.de/2022/09/06/berlin/"},
     { "source": "/fredericks", "destination": "https://robinbruch.de/2022/09/02/fredericks/"},
     { "source": "/helgoland", "destination": "http://robinbruch.de/2022/08/11/helgoland/"},
     
+    { "source": "/mindweb", "destination": "https://robinbruch.de/wie_mindweb_computing_alles_veraendern_wird/"},
     { "source": "/singularitaet", "destination": "https://robinbruch.de/ein_lo-fi-girl_und_die_singularitaet/"},
     { "source": "/dummheit", "destination": "https://robinbruch.de/das_gute_das_boese_und_die_dummheit"},
     { "source": "/neues-internet", "destination": "https://robinbruch.de/was_nun_internet/"},
@@ -18,7 +21,6 @@
     { "source": "/blockchain", "destination": "https://robinbruch.de/blockchain_bla_bla/"},
     { "source": "/videospielrhetorik", "destination": "https://robinbruch.de/prozedurale_rhetorik_in_videospielen/"},
     { "source": "/spiegel-bento", "destination": "https://robinbruch.de/spiegel_online_vs_bento/"},
-    { "source": "/videospieltod", "destination": "https://robinbruch.de/ludologie_gegen_narratologie/"},
-    { "source": "/kulturcrash", "destination": "https://robinbruch.de/ich_bin_eben_ein_kultur-crash/"}
+    { "source": "/videospieltod", "destination": "https://robinbruch.de/ludologie_gegen_narratologie/"}
   ]
 }
